@@ -55,7 +55,7 @@ pricing:
           begränsningskabel därefter kostar kabeln 10 Kr/m)
         - Med eget installationskit kostar installationen 1599 Kr
       plan: Liten installation
-      price: 1999 Kr
+      price: 2199 Kr
     - description: >-
         Perfekt för dig med en trädgård som är mellan 500 och 1500
         Kvadratmeter. 
@@ -68,13 +68,19 @@ pricing:
           begränsningskabel därefter kostar kabeln 10kr/m)
         - Med eget installation material kostar installationen 1999 Kr
       plan: Mellan installation
-      price: 2499 Kr
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: 2999 Kr
+    - description: >-
+        Perfekt för dig med en trädgård som är mellan 1500 och 2500
+        Kvadratmeter. 
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Installation av begränsningskabel
+        - Installation av guidekabeln
+        - Test och demonstration av robotgräsklipparen
+        - >-
+          Stort installationskit allt som behövs till installationen (400 meter
+          begränsningskabel därefter kostar kabeln 10kr/m)
+        - Med eget installation material kostar installationen 1999 Kr
+      plan: Stor installation
+      price: 3299 Kr
 ---
 
