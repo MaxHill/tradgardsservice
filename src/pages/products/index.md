@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: 'Trädgårdsservice R&N: Våra tjänsterdsg'
+title: 'Trädgårdsservice R&N: Våra tjänster'
 image: /img/sharon-mccutcheon-fSlCxR0dnZY-unsplash.jpg
 heading: Tjänster utförda med kvalité till ett bra pris
 description: >-
