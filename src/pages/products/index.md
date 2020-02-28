@@ -36,13 +36,14 @@ pricing:
   heading: Robotgräsklippare
   description: >-
     Alla våra installationer utförs enligt instruktionsboken till din
-    robotgräsklippare. Vi använder endast material med hög kvalité och följer
-    alltid tillverkarnas rekommendationer. Vi hjälper dig med installation av
-    laddningsstation, begränsningskabel samt testar och demonstrerar roboten.
-    Notera att vi placerar begränsningskabeln ovan jord och fäster den med
-    märlor. Inom några veckor kommer gräset att ha växt över din
-    begräsningskabel. Fördelar med att placera begränsningskabeln ovan jord är
-    att det är enkelt att justera begränsningskabeln och enklare att upptäcka
+    robotgräsklippare och utifrån tillverkarens rekommendationer. Vi använder
+    endast material från Bossmow ett världsledande företag inom
+    robotgräsklippare som är kända för sin höga kvalité. Vi hjälper dig med
+    installation av laddningsstation, begränsningskabel samt testar och
+    demonstrerar roboten. Notera att vi placerar begränsningskabeln ovan jord
+    och fäster den med märlor. Inom några veckor kommer gräset att ha växt över
+    din begräsningskabel. Fördelar med att placera begränsningskabeln ovan jord
+    är att det är enkelt att justera begränsningskabeln och enklare att upptäcka
     slingbrott. Glöm inte att kabeln är gjord för att fästas ovan jord.  
   plans:
     - description: Perfekt för dig med en trädgård som är mindre än 500 Kvadratmeter
