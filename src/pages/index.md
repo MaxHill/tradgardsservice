@@ -8,7 +8,7 @@ mainpitch:
   title: Robotgräsklippare
   description: >
     Vår trädgårdsservice är modern och vänder sig till dig som vill ta del av
-    framtiden. 
+    framtiden inom trädgrådsarbete. 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
