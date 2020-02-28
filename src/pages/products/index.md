@@ -83,5 +83,16 @@ pricing:
         - Med eget installation material kostar installationen 1999 Kr
       plan: Stor installation
       price: 3299 Kr
+    - description: >-
+        Har din robotgräsklippare stannat och du får felmeddelandet ingen
+        slingsignal? Oroa dig inte vi hjälper dig. För att du ska slippa dra upp
+        hela kabeln för att lokalisera brottet använder vi avancerad utrustning
+        för att lokalisera brottet. 
+      items:
+        - Lokalisering av kabel brott
+        - Reparation av brottet
+        - Det material som krävs för reperationen
+      plan: Reperation av kabelbrott
+      price: 1199 Kr
 ---
 
