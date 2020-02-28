@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Trädgårdsservice R&N
+image: /img/sharon-mccutcheon-fSlCxR0dnZY-unsplash.jpg
+heading: 'Din trädgård '
+subheading: Vi tar hand om din trädgård
 mainpitch:
-  title: Why Kaldi
+  title: Robotgräsklippare
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Vår trädgårdsservice är modern och vänder sig till dig som vill ta del av
+    framtiden. 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +66,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
