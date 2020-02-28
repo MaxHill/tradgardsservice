@@ -50,17 +50,25 @@ pricing:
         - Installation av begränsningskabel
         - Installation av guidekabeln
         - Test och demostartion av robotgärsklipparen
-        - Litet installationskit allt vi behöver för installationen
+        - >-
+          Litet installationskit allt som behövs till installationen (150 meter
+          begränsningskabel därefter kostar kabeln 10 Kr/m)
         - Med eget installationskit kostar installationen 1599 Kr
       plan: Liten installation
       price: 1999 Kr
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: >-
+        Perfekt för dig med en trädgård som är mellan 500 och 1500
+        Kvadratmeter. 
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
+        - Installation av begränsningskabel
+        - Installation av guidekabeln
+        - Test och demonstration av robotgräsklipparen
+        - >-
+          Mellan installationskit allt som behövs till installationen (250 meter
+          begränsningskabel därefter kostar kabeln 10kr/m)
+        - Med eget installation material kostar installationen 1999 Kr
+      plan: Mellan installation
+      price: 2499 Kr
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
