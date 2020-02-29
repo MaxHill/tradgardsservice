@@ -2,13 +2,16 @@
 templateKey: index-page
 title: Trädgårdsservice R&N
 image: /img/sharon-mccutcheon-fSlCxR0dnZY-unsplash.jpg
-heading: 'Din trädgård '
-subheading: Vi tar hand om din trädgård
+heading: Din trädgård
+subheading: Vi tar hand om din trädgård och robotgräsklippare
 mainpitch:
   title: Robotgräsklippare
-  description: >
-    Vår trädgårdsservice är modern och vänder sig till dig som vill ta del av
-    framtiden inom trädgrådsarbete. 
+  description: >-
+    Robotgräsklippare är ett modernt hjälpmedel som fler och fler använder i sin
+    trädgård. När allt fungerar som det ska så tuffar roboten på och följer sitt
+    programmerade körschema. Men ibland uppstår problem, ofta när gräset växer
+    som mest och roboten är som viktigast. Kontakta oss så ser vi hur vi kan
+    hjälpa just er med ert problem. 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
