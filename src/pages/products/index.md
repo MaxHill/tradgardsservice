@@ -5,9 +5,12 @@ image: /img/sharon-mccutcheon-fSlCxR0dnZY-unsplash.jpg
 heading: Tjänster utförda med kvalité till ett bra pris
 description: >-
   Behöver du hjälp med att installera en robotgräsklippare, laga ett slingbrott
-  eller annat trädgårdsarbete? Då har du kommit rätt. 
+  eller ett annat problem som gör att din robotgräsklippare står still? Då har
+  du kommit rätt. 
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/garden-2178714_1920.jpg
+      text: Robotgräsklippare i arbete
   heading: 'Installation av '
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
