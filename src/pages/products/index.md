@@ -47,7 +47,10 @@ pricing:
     och fäster den med märlor. Inom några veckor kommer gräset att ha växt över
     din begräsningskabel. Fördelar med att placera begränsningskabeln ovan jord
     är att det är enkelt att justera begränsningskabeln och enklare att upptäcka
-    slingbrott. Glöm inte att kabeln är gjord för att fästas ovan jord.  
+    slingbrott. Glöm inte att kabeln är gjord för att fästas ovan jord.  Har din
+    robotgräsklippare stannat och du får felmeddelandet ingen slingsignal? Oroa
+    dig inte vi hjälper dig. För att du ska slippa dra upp hela kabeln för att
+    lokalisera brottet använder vi avancerad utrustning. 
   plans:
     - description: Perfekt för dig med en trädgård som är mindre än 500 Kvadratmeter
       items:
@@ -88,9 +91,7 @@ pricing:
       price: 3299 Kr
     - description: >-
         Har din robotgräsklippare stannat och du får felmeddelandet ingen
-        slingsignal? Oroa dig inte vi hjälper dig. För att du ska slippa dra upp
-        hela kabeln för att lokalisera brottet använder vi avancerad utrustning
-        för att lokalisera brottet. 
+        slingsignal? Oroa dig inte vi hjälper dig. 
       items:
         - Lokalisering av kabel brott
         - Reparation av brottet
