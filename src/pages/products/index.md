@@ -96,7 +96,7 @@ pricing:
         - Lokalisering av kabel brott
         - Reparation av brottet
         - Det material som krävs för reperationen
-      plan: Reparation kabelbrott
+      plan: Kabelbrott
       price: 1199 Kr
 ---
 
