@@ -36,7 +36,7 @@ main:
 testimonials: []
 full_image: /img/robot-mower-3999490_1920.jpg
 pricing:
-  heading: Robotgräsklippare
+  heading: Installation och reparation
   description: >-
     Alla våra installationer utförs enligt instruktionsboken till din
     robotgräsklippare och utifrån tillverkarens rekommendationer. Vi använder
