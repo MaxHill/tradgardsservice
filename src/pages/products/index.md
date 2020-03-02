@@ -2,7 +2,7 @@
 templateKey: product-page
 title: 'Trädgårdsservice R&N: Våra tjänster'
 image: /img/sharon-mccutcheon-fSlCxR0dnZY-unsplash.jpg
-heading: Tjänster utförda med kvalité till ett bra pris
+heading: Tjänster utförda med kvalité till ett oslagbart pris
 description: >-
   Behöver du hjälp med att installera en robotgräsklippare, laga ett slingbrott
   eller ett annat problem som gör att din robotgräsklippare står still? Då har
