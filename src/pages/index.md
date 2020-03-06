@@ -12,11 +12,7 @@ mainpitch:
     programmerade körschema. Men ibland uppstår problem, ofta när gräset växer
     som mest och roboten är som viktigast. Kontakta oss så ser vi hur vi kan
     hjälpa just er med ert problem. 
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Hej ruben.
 intro:
   blurbs: []
   heading: What we offer
