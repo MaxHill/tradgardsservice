@@ -3,37 +3,26 @@ templateKey: product-page
 title: 'Trädgårdsservice R&N: Våra tjänster'
 image: /img/sharon-mccutcheon-fSlCxR0dnZY-unsplash.jpg
 heading: Tjänster utförda med kvalité till ett oslagbart pris
-description: >-
-  Behöver du hjälp med att installera en robotgräsklippare, laga ett slingbrott
-  eller ett annat problem som gör att din robotgräsklippare står still? Då har
-  du kommit rätt. 
+description: 'Robotgräsklippare, gödsling mm'
 intro:
   blurbs:
     - image: /img/garden-2178714_1920.jpg
       text: Robotgräsklippare i arbete
   heading: 'Installation av '
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |+
+
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: '-'
+  description: '-'
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: '-'
     image: /img/robot-mower-3999490_1920.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: '-'
+    image: /img/robot-mower-3999490_1920.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials: []
+    alt: '-'
+    image: /img/blog-index.jpg
 full_image: /img/robot-mower-3999490_1920.jpg
 pricing:
   heading: Installation och reparation
