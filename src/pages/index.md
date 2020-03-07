@@ -3,7 +3,7 @@ templateKey: index-page
 title: Trädgårdsservice R&N
 image: /img/sharon-mccutcheon-fSlCxR0dnZY-unsplash.jpg
 heading: Din trädgård
-subheading: Vi tar hand om din robotgräsklippare
+subheading: Tjänster för din trädgård
 mainpitch:
   title: Robotgräsklippare
   description: >-
