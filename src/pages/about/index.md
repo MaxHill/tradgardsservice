@@ -4,9 +4,9 @@ title: Om Trädgårdsservice R&N
 ---
 ### Single origin
 
-Vi på Trädgårdsservice R&N jobbar för att göra din vardag enklare. 
+Vi på Trädgårdsservice R&N erbjuder service för din trädgård. Vi erbjduer våra kunder fasta priser på vår hemsida men ervbjuder även övriga ärenden angående trädgårdar. Kunder kan kontakta oss via vårt frågeformulär, mejl, social medier eller 
 
-### Sustainable farming
+Sustainable farming
 
 Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
