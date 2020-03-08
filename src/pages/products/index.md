@@ -28,10 +28,8 @@ pricing:
   heading: Installation och reparation
   description: >-
     Alla våra installationer utförs enligt instruktionsboken till din
-    robotgräsklippare och utifrån tillverkarens rekommendationer. Vi använder
-    endast material från Bossmow ett världsledande företag inom
-    robotgräsklippare som är kända för sin höga kvalité. Vi hjälper dig med
-    installation av laddstationen, begränsningskabel samt testar och
+    robotgräsklippare och utifrån tillverkarens rekommendationer. Vi hjälper dig
+    med installation av laddstationen, begränsningskabel samt testar och
     demonstrerar roboten. Notera att vi placerar begränsningskabeln ovan jord
     och fäster den med märlor. Inom några veckor kommer gräset att ha växt över
     din begräsningskabel. Fördelar med att placera begränsningskabeln ovan jord
