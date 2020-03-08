@@ -11,7 +11,8 @@ mainpitch:
     trädgård. När allt fungerar som det ska så tuffar roboten på och följer sitt
     programmerade körschema. Men ibland uppstår problem, ofta när gräset växer
     som mest och roboten är som viktigast. Kontakta oss så ser vi hur vi kan
-    hjälpa just er med ert problem. 
+    hjälpa just er med ert problem. Se våra tjänster för exempel på
+    prisättning. 
 description: Hej ruben.
 intro:
   blurbs: []
