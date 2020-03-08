@@ -3,7 +3,9 @@ templateKey: product-page
 title: 'Trädgårdsservice R&N: Våra tjänster'
 image: /img/sharon-mccutcheon-fSlCxR0dnZY-unsplash.jpg
 heading: Tjänster utförda med kvalité till ett oslagbart pris
-description: 'Robotgräsklippare, gödsling mm'
+description: >-
+  Ogenomförbara tjänster är kostnadsfria, löser vi inte ert problem kostar det
+  er inget!
 intro:
   blurbs:
     - image: /img/garden-2178714_1920.jpg
