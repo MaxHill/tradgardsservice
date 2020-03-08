@@ -37,7 +37,9 @@ pricing:
     slingbrott. Glöm inte att kabeln är gjord för att fästas ovan jord.  Har din
     robotgräsklippare stannat och du får felmeddelandet ingen slingsignal? Oroa
     dig inte vi hjälper dig. För att du ska slippa dra upp hela kabeln för att
-    lokalisera brottet använder vi avancerad utrustning. 
+    lokalisera brottet använder vi avancerad utrustning.  Plustjänster i samband
+    med annat arbete: Knivbyte 199 Kr inkl material, omdragning runt nya föremål
+    499 Kr + kabelkostnad 10 Kr/M
   plans:
     - description: Perfekt för dig med en trädgård som är mindre än 500 Kvadratmeter
       items:
