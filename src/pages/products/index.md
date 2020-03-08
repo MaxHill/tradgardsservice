@@ -86,6 +86,6 @@ pricing:
         - Reparation av brottet
         - Det material som krävs för reperationen
       plan: Kabelbrott
-      price: 1199 Kr
+      price: 1099 Kr
 ---
 
