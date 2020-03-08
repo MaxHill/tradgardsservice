@@ -45,7 +45,7 @@ pricing:
       items:
         - Installation av begränsningskabel
         - Installation av guidekabeln
-        - Test och demostartion av robotgräsklipparen
+        - Test och demonstration av robotgräsklipparen
         - >-
           Litet installationskit allt som behövs till installationen (150 meter
           begränsningskabel därefter kostar kabeln 10 Kr/m)
